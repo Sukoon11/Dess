@@ -13,7 +13,7 @@ logging.basicConfig(
     level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-API_URL = 'https://api.51gameapi.com/api/webapi/GetEmerdList'  # Your API URL
+API_URL = 'https://api.bdg88zf.com/api/webapi/GetNoaverageEmerdList'  # Your API URL
 
 # Store user states globally
 user_states = {}
