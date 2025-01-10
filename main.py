@@ -175,7 +175,7 @@ def keep_alive():
 
 def run_bot():
     app = ApplicationBuilder().token(
-        "7279695237:AAEhCT6UeDwUn8l0wG_zNZycg6M63T9BRmE").build(
+        "7279695237:AAH3DHtE7pUu0UZCBODsLcuCqCg5JgelBW4").build(
         )  # Replace with your actual bot token
 
     app.add_handler(CommandHandler("start", start))
